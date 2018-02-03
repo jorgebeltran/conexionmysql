@@ -1,0 +1,19 @@
+{
+  "name": "conexionmysql",
+  "version": "1.0.0",
+  "description": "\"uso del driver mysqlconnect\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgebeltran/conexionmysql.git"
+  },
+  "author": "jorge be;tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgebeltran/conexionmysql/issues"
+  },
+  "homepage": "https://github.com/jorgebeltran/conexionmysql#readme"
+}
